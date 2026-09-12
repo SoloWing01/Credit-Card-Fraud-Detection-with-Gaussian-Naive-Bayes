@@ -155,10 +155,9 @@ This project demonstrates:
 ```text
 credit-card-fraud-gaussian-nb/
 │
-├── ml_naive_bayes12(2).ipynb
+├── ml_naive_bayes.ipynb
 ├── README.md
-└── data/
-    └── creditcard.csv
+
 ```
 
 > The dataset does not need to be committed to GitHub if repository size or dataset licensing is a concern. The notebook can download the dataset using `kagglehub`.
